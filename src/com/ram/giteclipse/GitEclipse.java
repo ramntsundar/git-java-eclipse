@@ -7,6 +7,7 @@ public class GitEclipse {
 			System.out.println("Testing Git from Eclipse");
 			System.out.println("Delete file from Git and check by commiting code from local");
 			System.out.println("Testing Versioning");
+			System.out.println("Test test");
 	}
 
 }
